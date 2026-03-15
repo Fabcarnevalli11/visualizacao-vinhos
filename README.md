@@ -47,6 +47,16 @@ O projeto inclui visualizações como:
 - Seaborn
 - Streamlit (para construção do dashboard)
 
+- ## Como executar o projeto
+
+1. Instalar as bibliotecas necessárias:
+
+pip install streamlit pandas plotly
+
+2. Executar o dashboard:
+
+streamlit run app.py
+
 ## Autor
 
 Fabrício Ferreira Carnevalli  
